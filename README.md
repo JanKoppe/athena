@@ -30,4 +30,4 @@ __Attention:__ The power supply must _never_ be connected to signal ground becau
 
 ## Enclosure
 
-The PCB is designed for the Hammond 1455B802 aluminium enclosure which is cheap and good looking. I intend to add SVG files for laser-cutting the front and back panel in the future to achieve optimal connector fitting.
+Use Fischer Elektronik KOH-1100 and KOH-2100 case components with lasercut panels from 2mm plexiglas for the enclosure. CAD files for panel cutouts are included.
