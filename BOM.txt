@@ -1,0 +1,21 @@
+4x NE5532 SOIC-8 (U1, U4-6) (input buffer and active filters for speaker outputs)
+1x OPA2134 SOIC-8 (U3) (opamp for cmoy, needs beefy output)
+1x TL072 SOIC-8 (U2) (voltage rail splitter buffer)
+2x 10u/16v smd electrolytic capacitor (C3, C11)
+16x 100n 0805 ceramic capacitor (all other C)
+6x 10k 0603 resistor (R3, R4, R9, R10, R21, R22)
+6x 100k 0603 resistor (R1, R2, R17-20)
+6x 22k 0603 resistor (R11-16)
+2x 2k7 0603 resistor (R5, R6)
+2x 8k2 0603 resistor (R7, R8)
+2x 330r resistor (R23, R24) (current-limiting resistors for voltage leds)
+2x 3mm LED of your choice (D2, D3) (voltage indicator leds)
+1x 1n4001 diode (D1)
+1x 10k single turn trimmer, flat, legs (RV2) - sub volume
+1x alps RK09L12B 10k log stereo potentiometer (RV1) - main volume
+1x "MS 500FVT"@reichelt.de switch, DPDT (SW1)
+1x standard DC 2.1mm pcb-mount jack
+
+Input/Output Jacks can be selected to your liking between 3.5mm and 6.3mm jacks, you will need a total of 4 jacks:
+Neutrik NRJ6HF for 6.3mm and corresponding nut
+Lumberg 1503-09 for 3.5mm
